@@ -1,0 +1,7 @@
+## Interface: 30300
+## Version: 22.04.2024
+## Title: |cffFFFF00Exo|r|cffFF4500Examiner|r
+## Author: Aezay (Earthen Ring EU) / Exodyke
+## Notes: Расширенный мод проверки снаряжения и талантов.
+## SavedVariables: Examiner_Config, Examiner_Cache
+Examiner.xml
